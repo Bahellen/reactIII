@@ -1,0 +1,17 @@
+.sobre{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin: 0 100px;
+}
+
+.avatar{
+    width: 100%;
+}
+
+.sobre-mim{
+    color: rgb(69, 15, 120);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
